@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Finanças</string>
+
+    <string name="title_section1">Editar Contas</string>
+    <string name="title_section2">Ver Metas</string>
+    <string name="title_section3">Configurações</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Ver Saldo</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="action_About">Sobre</string>
+</resources>
